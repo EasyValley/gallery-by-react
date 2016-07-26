@@ -1,4 +1,4 @@
-yeoman构建架构
+yeoman构建架构->react-webpack
 npm install
 npm run start
 打开http://localhost:8088
