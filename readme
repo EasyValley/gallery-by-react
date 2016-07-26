@@ -1,9 +1,8 @@
 yeoman构建架构
-<br />
 npm install
-<br />
 npm run start
 打开http://localhost:8088
+
 
 依赖模块：
 	配置 Babel
